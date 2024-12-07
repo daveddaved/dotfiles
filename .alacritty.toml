@@ -1,0 +1,6 @@
+[font.normal]
+family = "JetBrains Mono"
+
+[shell]
+args = ["-l", "-c", "tmux attach || tmux"]
+program = "/opt/homebrew/bin/zsh"
